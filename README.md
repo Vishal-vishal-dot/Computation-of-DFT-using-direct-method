@@ -39,11 +39,14 @@ ylabel('Phase');
 title('Phase spectrum');
 ```
 ### CALCULATIONS:
-![DFT-1](https://github.com/user-attachments/assets/0de39c89-ad4f-488a-a86a-1025ca6d9f2a)
+<img width="911" height="1600" alt="image" src="https://github.com/user-attachments/assets/dad078ab-2cc7-4138-b0b0-6a9d5d1f8abc" />
 
-![DFT-2](https://github.com/user-attachments/assets/aca83c89-db29-48f1-9fa7-77ba802fa496)
 
-![DFT-3](https://github.com/user-attachments/assets/14eaaa01-d6b4-4411-9523-4c7d414c8385)
+<img width="1006" height="1600" alt="image" src="https://github.com/user-attachments/assets/4b780180-cf3d-4a01-aaee-dd4a0d4fcdb2" />
+
+
+<img width="1023" height="1600" alt="image" src="https://github.com/user-attachments/assets/5b9511b5-2794-4a9f-a1c3-b034ed962d8b" />
+
 
 ### SAMPLE OUTPUT:
 <img width="756" height="715" alt="DFT dtsp" src="https://github.com/user-attachments/assets/aa0c7ff0-4927-4c84-8242-654cbe473753" />
